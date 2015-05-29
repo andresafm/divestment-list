@@ -1,0 +1,12 @@
+html, body, main { background: black; }
+
+section {
+	max-width: 35em;
+  border: 2px red solid;
+  background-color: $yellow;
+  margin: 2em auto;
+  > h1 {
+    max-width: 30em;
+    margin: 1em auto;
+  }
+}
