@@ -20,15 +20,18 @@ section {
     font-size: 5em;
   }
     > img {
+    display: block;
     max-width: 15em;
-    margin: .5em auto;
+    margin: .15em auto;
   }
   > p {
     max-width: 73em;
-    margin: .5em auto;
+    margin: 2em auto;
     text-align: justify;
+    font-weight: bold;
   }
   > a {
+    display: block;
     max-width: 15em;
     margin: .5em auto;
     text-align: center;
